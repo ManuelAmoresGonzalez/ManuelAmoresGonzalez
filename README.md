@@ -12,6 +12,7 @@ I'm a self-taught passionate FrontEnd developer from Costa Rica ![Costa Rica](ht
 
    - 💬 Ask me about anything [here](https://www.linkedin.com/in/manuelamoresgonzalez/)
 
+https://github-profile-trophy.vercel.app/?username=ManuelAmoresGonzalez
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManuelAmoresGonzalez&show_icons=true&theme=radical&count_private=false" alt="Amores's github stats" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelAmoresGonzalez&show_icons=true&theme=radical&count_private=false" /> 
 
