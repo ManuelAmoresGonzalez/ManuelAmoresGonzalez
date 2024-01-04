@@ -1,8 +1,8 @@
-<p align="center"><img width="100%" height= 250px src="https://firebasestorage.googleapis.com/v0/b/github-a9122.appspot.com/o/GitHub.png?alt=media&token=24014f1c-7e08-4ff2-83a1-c6ed6257435b" /></p>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> Hey!!! Nice to see you.</h3>
 
 
 
-I'm a self-taught passionate FrontEnd developer from Costa Rica ![Costa Rica](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/cr.png "Costa Rica")
+I am a Costa Rican Engineer passionate about software ![Costa Rica](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/cr.png "Costa Rica")
 
 **About me**
 
