@@ -2,7 +2,7 @@
 
 I am a Costa Rican Engineer passionate about software ![Costa Rica](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/cr.png "Costa Rica")
 
-<h3 style="text-align: center;">
+<p>
    <img src="https://slackmojis.com/emojis/64616-java3/download" width="20"/>
    <img src="https://slackmojis.com/emojis/10387-spring-boot/download" width="20"/>
    <img src="https://slackmojis.com/emojis/9754-docker/download" width="20"/>
@@ -15,7 +15,7 @@ I am a Costa Rican Engineer passionate about software ![Costa Rica](https://raw.
    <img src="https://slackmojis.com/emojis/9539-cucumber/download" width="20"/>
    <img src="https://slackmojis.com/emojis/58444-selenium/download" width="20"/>
    <img src="https://slackmojis.com/emojis/1491-kubernetes/download" width="20"/>
-</h3>
+</p>
 
 **About me**
 
